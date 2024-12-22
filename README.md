@@ -1,6 +1,6 @@
 [![](https://dcbadge.limes.pink/api/server/GTZtn8pTXC)](https://discord.gg/GTZtn8pTXC)
 
-# JSON Resume Fork
+# JSON Resume Forked
 
 Welcome to the JSON Resume monorepo, the centralized repository for the registry, homepage, UI kit, base templates, utilities, and more.
 
